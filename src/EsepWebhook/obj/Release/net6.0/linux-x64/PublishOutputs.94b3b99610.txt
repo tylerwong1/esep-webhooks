@@ -1,0 +1,6 @@
+/Users/tylerwong/Documents/workspace/school/spring 2023/software enterprise/event_driven_architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/Users/tylerwong/Documents/workspace/school/spring 2023/software enterprise/event_driven_architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/Users/tylerwong/Documents/workspace/school/spring 2023/software enterprise/event_driven_architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/Users/tylerwong/Documents/workspace/school/spring 2023/software enterprise/event_driven_architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/tylerwong/Documents/workspace/school/spring 2023/software enterprise/event_driven_architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/tylerwong/Documents/workspace/school/spring 2023/software enterprise/event_driven_architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll
